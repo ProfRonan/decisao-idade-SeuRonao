@@ -13,5 +13,5 @@ O testador automático vai rodar o comando `python main.py` para rodar o script.
 - Se o usuário digitar um número negativo: o programa deve imprimir `impossível!`
 - Se o usuário digitar um número menor que 18: o programa deve imprimir `não precisa se alistar.`
 - Se o usuário digitar um número maior que 18 e menor do que 65: o programa deve imprimir `Não esqueça de votar na próxima eleição.`
-- Se o usuário digitar um número maior do que 65: o programa deve imprimir `Vá descançar.`
+- Se o usuário digitar um número maior do que 65: o programa deve imprimir `Vá descansar.`
 - Se nada disso acontecer, o programa deve imprimir `eita!`
